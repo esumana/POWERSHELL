@@ -1,2 +1,1 @@
-Write-Host -fore Green 'Terminal Server (RDS) grace period Days remaining are'
-Write-host -ForegroundColor Red 'Resetting, Please Wait....'
+New-Item -Path testfile1.txt - ItemType File
